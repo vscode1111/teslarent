@@ -1,0 +1,18 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[solidity]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.formatOnSave": true,
+  "liveServer.settings.root": "/coverage",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.tabWidth": 2
+}
